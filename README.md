@@ -10,9 +10,13 @@
 
 ## :thinking: About me
 
-:construction: <strong>This section is under construction, come back soon!<strong/>
+:man_technologist: Software Developer  
+<br/>
+:books: Computer Science student at Federal University of Santa Maria (UFSM)  
+<br/>
+:briefcase: Back-end Developer, working remotely at [ROIT](https://github.com/roitinnovation)  
 
-## :man_technologist: My development stack
+## :computer: My development stack
 
 <code><img height="24" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="24" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
