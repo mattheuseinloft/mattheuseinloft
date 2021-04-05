@@ -8,7 +8,7 @@
   <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
-## :thinking: About me
+## 👤 About me
 
 :man_technologist: Software Developer  
 :books: Computer Science student at Federal University of Santa Maria (UFSM)  
