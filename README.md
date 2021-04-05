@@ -11,9 +11,7 @@
 ## :thinking: About me
 
 :man_technologist: Software Developer  
-<br/>
 :books: Computer Science student at Federal University of Santa Maria (UFSM)  
-<br/>
 :briefcase: Back-end Developer, working remotely at [ROIT](https://github.com/roitinnovation)  
 
 ## :computer: My development stack
