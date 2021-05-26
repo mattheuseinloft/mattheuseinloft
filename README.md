@@ -4,10 +4,6 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:mattheuseinloft@gmail.com" rel="noopener noreferrer">
-  <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-
 ## 👤 About me
 
 :man_technologist: Software Enginner  
