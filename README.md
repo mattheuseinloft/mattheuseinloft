@@ -10,9 +10,8 @@
 
 ## 👤 About me
 
-:man_technologist: Software Developer  
+:man_technologist: Software Enginner  
 :books: Computer Science student at Federal University of Santa Maria (UFSM)  
-:briefcase: Back-end Developer, working remotely at [ROIT](https://github.com/roitinnovation)  
 
 ## :computer: My development stack
 
