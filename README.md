@@ -6,8 +6,8 @@
 
 ## 👤 About me
 
-:man_technologist: Software Enginner  
-:books: Computer Science student at Federal University of Santa Maria (UFSM)  
+### :man_technologist: Software Enginner  
+### :books: Computer Science student @ Federal University of Santa Maria (UFSM)  
 
 ## :computer: My development stack
 
