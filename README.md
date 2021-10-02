@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mattheus
+# Hi! 👋 I'm Mattheus
 
 <a href="https://www.linkedin.com/in/mattheuseinloft/" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
@@ -6,8 +6,9 @@
 
 ## 👤 About me
 
-### 👨‍💻 Software Developer  
-### 🎓 Computer Science @ Federal University of Santa Maria (UFSM)  
+👨‍💻 Tecnology and programming enthusiast. Passionate about web development since 2017.  
+💼 Working with Node.js back-end development since 2020.  
+🎓 Bachelor degree in Computer Science at Federal University of Santa Maria (UFSM)  
 
 ## :computer: My development stack
 
