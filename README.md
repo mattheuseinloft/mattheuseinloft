@@ -7,7 +7,7 @@
 ## 👤 About me
 
 👨‍💻 Tecnology and programming enthusiast. Passionate about web development since 2017.  
-💼 Working with Node.js back-end development since 2020.  
+💼 Working with software development since 2020.  
 🎓 Bachelor degree in Computer Science at Federal University of Santa Maria (UFSM)  
 
 ## :computer: My development stack
