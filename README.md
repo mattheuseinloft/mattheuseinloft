@@ -2,13 +2,13 @@
 
 ### 👤 About me
 
-Full-stack Software Engineer with 3+ years of experience. I develop back-end applications using Node.js and AWS; and web applications with React and JavaScript.
+Full-stack Software Engineer with over 3 years of experience in building robust applications. I develop back-end solutions using Node.js and AWS; and create dynamic web applications with React and JavaScript.
 
-I worked on the development of digital products in several areas, such as fraud prevention, accounting and HR. In them I was responsible for implementing features and fixing bugs that directly impacted users.
+I have contributed to a range of digital products accrouss several areas, such as fraud prevention, accounting and HR. My role involved implementing features and debugging issues that had a direct impact on user experience.
 
-I really enjoy using my knowledge and experience in programming and technology to solve problems, discuss solutions and work together with my colleagues, thus seeking to grow the company's business and bring solutions to our clients' problems.
+I'm enthusiastic about utilizing my programming and technology skills to solve problems, discuss solutions and work together with my team, thus seeking to grow the company's business and bring solutions to our clients' problems.
 
-I believe in teamwork, proactivity, empathy and respect as main values for a productive and healthy work environment.
+I believe in teamwork, proactivity, empathy and respect as essential values for a productive and healthy work environment.
 
 ### 🔧 Skills & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
