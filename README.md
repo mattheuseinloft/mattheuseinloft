@@ -20,7 +20,6 @@ I believe in teamwork, proactivity, empathy and respect as main values for a pro
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonwebservices)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b3cee6?style=for-the-badge&logo=githubactions)
-<!--
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-white?style=for-the-badge&logo=githubactions)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
@@ -28,7 +27,6 @@ I believe in teamwork, proactivity, empathy and respect as main values for a pro
 ![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma)
--->
 
 <!--
 <a href="https://www.linkedin.com/in/mattheuseinloft/" rel="noopener noreferrer">
