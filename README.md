@@ -6,7 +6,7 @@ Full-stack Software Engineer with over 3 years of experience in building robust 
 
 I have contributed to a range of digital products accrouss several areas, such as fraud prevention, accounting and HR. My role involved implementing features and debugging issues that had a direct impact on user experience.
 
-I'm enthusiastic about utilizing my programming and technology skills to solve problems, discuss solutions and work together with my team, thus seeking to grow the company's business and bring solutions to our clients' problems.
+I enjoy using my programming and technology skills to solve problems, discuss solutions and work together with my team, thus seeking to grow the company's business and bring solutions to our clients' problems.
 
 I believe in teamwork, proactivity, empathy and respect as essential values for a productive and healthy work environment.
 
