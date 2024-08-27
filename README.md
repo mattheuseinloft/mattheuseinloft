@@ -1,26 +1,39 @@
-# Hi! 👋 I'm Mattheus
+## Hi! 👋 I'm Mattheus
 
+### 👤 About me
+
+Full-stack Software Engineer with 3+ years of experience. I develop back-end applications using Node.js and AWS; and web applications with React and JavaScript.
+
+I worked on the development of digital products in several areas, such as fraud prevention, accounting and HR. In them I was responsible for implementing features and fixing bugs that directly impacted users.
+
+I really enjoy using my knowledge and experience in programming and technology to solve problems, discuss solutions and work together with my colleagues, thus seeking to grow the company's business and bring solutions to our clients' problems.
+
+I believe in teamwork, proactivity, empathy and respect as main values for a productive and healthy work environment.
+
+### 🔧 Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonwebservices)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-b3cee6?style=for-the-badge&logo=githubactions)
+<!--
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-white?style=for-the-badge&logo=githubactions)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma)
+-->
+
+<!--
 <a href="https://www.linkedin.com/in/mattheuseinloft/" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
-
-## 👤 About me
-
-💼 Full-stack Software Engineer with 3+ years of experience.  
-💻 I develop back-end applications using Node.js and AWS; and web applications with React and JavaScript.  
-🎓 Bachelor degree in Computer Science at Universidade Federal de Santa Maria (UFSM).  
-
-## :computer: My development stack
-
-<code><img height="24" alt="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png"></code>
-<code><img height="24" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="24" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="24" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="24" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-<!--
-**mattheuseinloft/mattheuseinloft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
