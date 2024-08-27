@@ -10,7 +10,7 @@ I really enjoy using my knowledge and experience in programming and technology t
 
 I believe in teamwork, proactivity, empathy and respect as main values for a productive and healthy work environment.
 
-### 🔧 Skills
+### 🔧 Skills & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react)
