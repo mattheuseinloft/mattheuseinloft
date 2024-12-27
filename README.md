@@ -2,7 +2,7 @@
 
 ### 👤 About me
 
-I'm a Full-stack Software Engineer with over 3 years of experience in building robust applications. I develop back-end solutions using Node.js and AWS; and create dynamic web applications with React and JavaScript.
+I'm a Full-stack Software Engineer with over 4 years of experience in building robust applications. I develop back-end solutions using Node.js and AWS; and create dynamic web applications with React and JavaScript.
 
 I have contributed to a range of digital products accrouss several areas, such as fraud prevention, accounting and HR. My role involved implementing features and debugging issues that had a direct impact on user experience.
 
